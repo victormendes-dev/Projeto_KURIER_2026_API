@@ -1,0 +1,1 @@
+var_pathClientesJSON = r'C:\Users\victo\OneDrive\Desktop\Projeto_KURIER_2026_API\repositorio'
